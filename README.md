@@ -2,12 +2,14 @@
   <img src="./assets/header.png" alt="Header width="100%"/>
 </p>
 
-## Hello!
+## 🔗 Hello!
 
 <p align="left">
-  my name is rike, type design student at écal, trying to learn python. 
+  My name is Rike, Type Design Student at Écal trying to learn Python. 
+  <br/> 
+  This Intro need be improved.
 <p align=left">
-please be nice :–) 
+Please, be nice :–) 
 
 <!--
 **rikewa/rikewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
