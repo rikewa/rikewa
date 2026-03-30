@@ -5,9 +5,9 @@
 ## 🔗 Hello!
 
 <p align="left">
-  My name is Rike, Type Design Student at Écal trying to learn Python. 
+  My name is Rike, Type Design Student at Écal and currently learning Python. 
   <br/> 
-  This Intro need be improved.
+  This Intro needs be improved.
 <p align=left">
 Please, be nice :–) 
 
