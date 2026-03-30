@@ -1,5 +1,5 @@
 <p align= "center">
-  <img src="./assets/header.png" alt="Header width="100%"/>
+  <img src="./assets/header-small.png" alt="Header width="100%"/>
 </p>
 
 ## 🔗 Hello!
