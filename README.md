@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align= "center">
+  <img src="./assets/header.svg" alt="Header width="100%"/>
+</p>
+
+## Hello!
+
+I'm Rike, Type Design student at Écal, trying to learn Python.
+Be nice :–)
 
 <!--
 **rikewa/rikewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
