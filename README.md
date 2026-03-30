@@ -4,8 +4,11 @@
 
 ## Hello!
 
-I'm Rike, Type Design student at Écal, trying to learn Python.
-Be nice :–)
+<p align="left">
+  my name is rike, type design student at écal, trying to learn python. 
+  /> <br/>
+<p align=left">
+please be nice :–) />
 
 <!--
 **rikewa/rikewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
