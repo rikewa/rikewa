@@ -7,7 +7,7 @@
 <p align="left">
   My name is Rike, Type Design Student at Écal and currently learning Python. 
   <br/> 
-  This Intro needs be improved.
+  This Intro needs to be improved.
 <p align=left">
 Please, be nice :–) 
 
