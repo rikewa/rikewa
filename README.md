@@ -2,7 +2,7 @@
   <img src="./assets/header-small.png" alt="Header width="100%"/>
 </p>
 
-## 🔗 Hello!
+## Hello!
 
 <p align="left">
   I'm a Type Design Student at Écal and currently learning Python and Font Engineering.
