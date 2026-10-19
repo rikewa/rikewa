@@ -5,11 +5,11 @@
 ## 🔗 Hello!
 
 <p align="left">
-  My name is Rike, Type Design Student at Écal and currently learning Python. 
-  <br/> 
-  This Intro needs to be improved.
-<p align=left">
-Please, be nice :–) 
+  I'm a Type Design Student at Écal and currently learning Python and Font Engineering.
+  <br/>
+  Send me your favorite repositories :———)
+</p>
+
 
 <!--
 **rikewa/rikewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
