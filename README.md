@@ -5,7 +5,7 @@
 ## Hello!
 
 <p align="left">
-  I'm a Type Design Student at Écal and currently learning Python and Font Engineering.
+  I'm a Type Design Student at Écal, currently learning Python and Font Engineering.
   <br/>
   Send me your favorite repositories :———)
 </p>
